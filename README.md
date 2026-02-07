@@ -1,1 +1,1 @@
-# Kajol-example-project
+# Kajol-first-terraform-project
